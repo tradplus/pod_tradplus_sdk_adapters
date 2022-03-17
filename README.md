@@ -1,0 +1,1 @@
+# pod_tradplus_sdk_adapters
