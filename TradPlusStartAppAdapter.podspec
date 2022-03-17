@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
  	spec.homepage = 'https://github.com/tradplus/pod_tradplus_sdk_adapters'
  	spec.license = { :type => 'MIT', :file => 'LICENSE' }
  	spec.author = { 'tradplus' => 'service@tradplus.com' }
- 	spec.source = { :http => 'https://github.com/tradplus/pod_tradplus_sdk_adapters/TradPlusStartAppAdapter/TradPlusStartAppAdapter-1.0.0.zip', :type => 'zip' }
+ 	spec.source = { :http => 'https://github.com/tradplus/pod_tradplus_sdk_adapters/raw/main/TradPlusStartAppAdapter/TradPlusStartAppAdapter-1.0.0.zip', :type => 'zip' }
  	spec.platform = :ios, '9.0'
  	spec.ios.deployment_target = '9.0'
  	spec.requires_arc = true
