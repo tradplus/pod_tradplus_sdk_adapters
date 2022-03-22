@@ -1,0 +1,5 @@
+# TradPlusFacebookAdapter
+
+## 7.2.0
+
+FacebookSDK：v6.9.0 ，TradPlusSDK min：v7.2.0
