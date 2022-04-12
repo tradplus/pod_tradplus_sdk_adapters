@@ -1,5 +1,11 @@
 # TradPlusGDTMobAdapter
 
+## 7.4.0
+
+GDTMobSDK：v4.13.53 ，TradPlusSDK min：v7.2.0
+
+修正了原生模版，渲染失败回调时由于日志格式错误导致的崩溃问题。
+
 ## 7.3.0
 
 GDTMobSDK：v4.13.51 ，TradPlusSDK min：v7.2.0

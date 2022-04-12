@@ -1,5 +1,9 @@
 # TradPlusAdMobAdapter
 
+## 7.4.0
+
+AdMobSDK：v9.2.0 ，TradPlusSDK min：v7.2.0
+
 ## 7.3.0
 
 AdMobSDK：v9.1.0 ，TradPlusSDK min：v7.2.0
