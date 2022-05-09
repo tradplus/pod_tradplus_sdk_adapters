@@ -2,7 +2,7 @@
 
 cd $(dirname $0)
 
-networkArray=("AdColony" "AdMob" "AppLovin" "Facebook" "GDTMob" "InMobi" "IronSource" "KuaiShou" "Maio" "Mintegral" "MoPub" "MyTarget" "Pangle" "Sigmob" "Smaato" "Tapjoy" "Unity" "Vungle" "YouDao" "StartApp" "Kidoz" "Klevin" "Chartboost" "TPCross" "Fyber" "SuperAwesome" "Baidu" "Ogury")
+networkArray=("AdColony" "AdMob" "AppLovin" "Facebook" "GDTMob" "InMobi" "IronSource" "KuaiShou" "Maio" "Mintegral" "MyTarget" "Pangle" "Sigmob" "Smaato" "Tapjoy" "Unity" "Vungle" "YouDao" "StartApp" "Kidoz" "Klevin" "Chartboost" "TPCross" "Fyber" "SuperAwesome" "Baidu" "Ogury" "GoogleAdManager")
 
 for(( i=0;i<${#networkArray[@]};i++)) do
 
