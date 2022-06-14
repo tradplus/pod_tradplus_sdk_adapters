@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
  	spec.name = 'TradPlusFyberAdapter'
- 	spec.version = '7.5.0'
+ 	spec.version = '7.6.0'
  	spec.summary = 'TradPlus Fyber Adapter'
  	spec.description = <<-DESC
  		Fyber Adapter used for mediation with the TradPlusAd SDK
@@ -8,11 +8,11 @@ Pod::Spec.new do |spec|
  	spec.homepage = 'https://github.com/tradplus/pod_tradplus_sdk_adapters'
  	spec.license = { :type => 'Commercial License', :text => 'Copyright 2022 Tradplus Corp. All rights reserved.' }
  	spec.author = { 'tradplus' => 'service@tradplus.com' }
- 	spec.source = { :http => 'https://github.com/tradplus/pod_tradplus_sdk_adapters/raw/main/TradPlusFyberAdapter/TradPlusFyberAdapter-7.5.0.zip', :type => 'zip' }
+ 	spec.source = { :http => 'https://github.com/tradplus/pod_tradplus_sdk_adapters/raw/main/TradPlusFyberAdapter/TradPlusFyberAdapter-7.6.0.zip', :type => 'zip' }
  	spec.platform = :ios, '9.0'
  	spec.ios.deployment_target = '9.0'
  	spec.requires_arc = true
  	spec.frameworks = 'SystemConfiguration', 'CoreGraphics','Foundation','UIKit'
  	spec.user_target_xcconfig = {'OTHER_LDFLAGS' => ['-lObjC']}
- 	spec.vendored_frameworks = 'TradPlusFyberAdapter-7.5.0/FyberAdapter.framework'
+ 	spec.vendored_frameworks = 'TradPlusFyberAdapter-7.6.0/FyberAdapter.framework'
 end
