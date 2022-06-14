@@ -1,5 +1,9 @@
 # TradPlusFacebookAdapter
 
+## 7.6.0
+
+FBAudienceNetwork：v6.11.1 ，TradPlusSDK min：v7.2.0
+
 ## 7.5.0
 
 FBAudienceNetwork：v6.10.0 ，TradPlusSDK min：v7.2.0

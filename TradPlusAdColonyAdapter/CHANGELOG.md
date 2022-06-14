@@ -1,5 +1,9 @@
 # TradPlusAdColonyAdapter
 
+## 7.6.0
+
+AdColony：v4.8.0 ，TradPlusSDK min：v7.2.0
+
 ## 7.5.0
 
 AdColony：v4.8.0 ，TradPlusSDK min：v7.2.0

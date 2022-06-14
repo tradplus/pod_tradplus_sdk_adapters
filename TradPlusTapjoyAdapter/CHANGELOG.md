@@ -1,5 +1,9 @@
 # TradPlusTapjoyAdapter
 
+## 7.6.0
+
+TapjoySDK：v12.10.0 ，TradPlusSDK min：v7.2.0
+
 ## 7.5.0
 
 TapjoySDK：v12.9.1 ，TradPlusSDK min：v7.2.0

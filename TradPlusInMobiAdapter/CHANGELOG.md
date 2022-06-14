@@ -1,5 +1,9 @@
 # TradPlusInMobiAdapter
 
+## 7.6.0
+
+InMobiSDK/Core：v10.0.7 ，TradPlusSDK min：v7.2.0
+
 ## 7.5.0
 
 InMobiSDK/Core：v10.0.5 ，TradPlusSDK min：v7.2.0

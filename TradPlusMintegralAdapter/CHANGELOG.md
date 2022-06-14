@@ -1,5 +1,9 @@
 # TradPlusMintegralAdapter
 
+## 7.6.0
+
+MintegralAdSDK：v7.1.6.0 ，TradPlusSDK min：v7.2.0
+
 ## 7.5.0
 
 MintegralAdSDK：v7.1.3.0 ，TradPlusSDK min：v7.2.0

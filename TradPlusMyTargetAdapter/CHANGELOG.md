@@ -1,5 +1,9 @@
 # TradPlusMyTargetAdapter
 
+## 7.6.0
+
+myTargetSDK：v5.15.1 ，TradPlusSDK min：v7.2.0
+
 ## 7.5.0
 
 myTargetSDK：v5.15.1 ，TradPlusSDK min：v7.2.0
