@@ -1,5 +1,9 @@
 # TradPlusStartAppAdapter
 
+## 7.7.0
+
+StartAppSDK：v4.6.7 ，TradPlusSDK min：v7.2.0
+
 ## 7.6.0
 
 StartAppSDK：v4.6.7 ，TradPlusSDK min：v7.2.0
