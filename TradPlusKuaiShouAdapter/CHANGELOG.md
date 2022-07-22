@@ -1,5 +1,9 @@
 # TradPlusKuaiShouAdapter
 
+## 7.8.0
+
+KSAdSDK：v3.3.26 ，TradPlusSDK min：v7.2.0
+
 ## 7.7.0
 
 KSAdSDK：v3.3.25 ，TradPlusSDK min：v7.2.0
