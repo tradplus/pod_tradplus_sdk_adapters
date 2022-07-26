@@ -1,5 +1,9 @@
 # TradPlusPangleAdapter
 
+## 7.8.10
+
+Ads-CN：v4.5.1.6 ，TradPlusSDK min：v7.2.0
+
 ## 7.8.0
 
 Ads-CN：v4.5.1.6 ，TradPlusSDK min：v7.2.0

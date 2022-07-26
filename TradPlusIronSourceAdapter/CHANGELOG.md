@@ -1,5 +1,9 @@
 # TradPlusIronSourceAdapter
 
+## 7.8.10
+
+IronSourceSDK：v7.2.3.1 ，TradPlusSDK min：v7.2.0
+
 ## 7.8.0
 
 IronSourceSDK：v7.2.3.1 ，TradPlusSDK min：v7.2.0
