@@ -1,5 +1,9 @@
 # TradPlusOguryAdapter
 
+## 7.9.0
+
+OgurySdk：v2.1.0 ，TradPlusSDK min：v7.2.0
+
 ## 7.8.10
 
 OgurySdk：v2.1.0 ，TradPlusSDK min：v7.2.0

@@ -1,5 +1,9 @@
 # TradPlusVungleAdapter
 
+## 7.9.0
+
+VungleSDK-iOS：v6.11.0 ，TradPlusSDK min：v7.2.0
+
 ## 7.8.10
 
 VungleSDK-iOS：v6.11.0 ，TradPlusSDK min：v7.2.0

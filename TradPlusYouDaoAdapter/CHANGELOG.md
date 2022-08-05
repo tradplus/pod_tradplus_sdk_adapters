@@ -1,5 +1,9 @@
 # TradPlusYouDaoAdapter
 
+## 7.9.0
+
+YDADSDK：v2.16.12 ，TradPlusSDK min：v7.2.0
+
 ## 7.8.10
 
 YDADSDK：v2.16.12 ，TradPlusSDK min：v7.2.0

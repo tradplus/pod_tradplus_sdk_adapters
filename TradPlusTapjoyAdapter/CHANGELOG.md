@@ -1,5 +1,11 @@
 # TradPlusTapjoyAdapter
 
+## 7.9.0
+
+TapjoySDK：v12.10.0 ，TradPlusSDK min：v7.2.0
+
+新增积分墙
+
 ## 7.8.10
 
 TapjoySDK：v12.10.0 ，TradPlusSDK min：v7.2.0

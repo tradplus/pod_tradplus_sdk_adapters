@@ -1,5 +1,9 @@
 # TradPlusUnityAdapter
 
+## 7.9.0
+
+UnityAds：v4.2.1 ，TradPlusSDK min：v7.2.0
+
 ## 7.8.10
 
 UnityAds：v4.2.1 ，TradPlusSDK min：v7.2.0
