@@ -1,5 +1,9 @@
 # TradPlusVerveAdapter
 
+## 8.1.0
+
+HyBid：v2.15.0 ，TradPlusSDK min：v7.7.0
+
 ## 8.0.0
 
 HyBid：v2.14.0 ，TradPlusSDK min：v7.7.0

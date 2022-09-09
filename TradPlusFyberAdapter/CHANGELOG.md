@@ -1,5 +1,9 @@
 # TradPlusFyberAdapter
 
+## 8.1.0
+
+Fyber_Marketplace_SDK：v8.1.5 ，TradPlusSDK min：v7.2.0
+
 ## 8.0.0
 
 Fyber_Marketplace_SDK：v8.1.5 ，TradPlusSDK min：v7.2.0

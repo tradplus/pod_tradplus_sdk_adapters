@@ -1,5 +1,9 @@
 # TradPlusTPCrossAdapter
 
+## 8.1.0
+
+TPCrossSDK：v1.0.0 ，TradPlusSDK min：v7.2.0
+
 ## 8.0.0
 
 TPCrossSDK：v1.0.0 ，TradPlusSDK min：v7.2.0

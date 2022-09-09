@@ -1,5 +1,9 @@
 # TradPlusSmaatoAdapter
 
+## 8.1.0
+
+smaato-ios-sdk：v21.7.6 ，TradPlusSDK min：v7.2.0
+
 ## 8.0.0
 
 smaato-ios-sdk：v21.7.6 ，TradPlusSDK min：v7.2.0

@@ -1,5 +1,9 @@
 # TradPlusYandexAdapter
 
+## 8.1.0
+
+YandexMobileAds：v5.1.0 ，TradPlusSDK min：v7.8.0
+
 ## 8.0.0
 
 YandexMobileAds：v5.1.0 ，TradPlusSDK min：v7.8.0
