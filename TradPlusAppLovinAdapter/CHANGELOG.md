@@ -1,5 +1,9 @@
 # TradPlusAppLovinAdapter
 
+## 8.3.20
+
+AppLovinSDK：v11.5.0 ，TradPlusSDK min：v7.2.0
+
 ## 8.2.0
 
 AppLovinSDK：v11.4.4 ，TradPlusSDK min：v7.2.0

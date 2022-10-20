@@ -1,5 +1,9 @@
 # TradPlusGDTMobAdapter
 
+## 8.3.20
+
+GDTMobSDK：v4.13.90 ，TradPlusSDK min：v7.2.0
+
 ## 8.2.0
 
 GDTMobSDK：v4.13.83 ，TradPlusSDK min：v7.2.0
