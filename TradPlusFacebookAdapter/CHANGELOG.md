@@ -1,4 +1,8 @@
-# TradPlusFacebookAdapter
+# TradPlusFacebookAdapter (Meta)
+
+## 8.4.0
+
+FBAudienceNetwork：v6.12.0 ，TradPlusSDK min：v7.2.0
 
 ## 8.3.20
 

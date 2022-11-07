@@ -1,5 +1,9 @@
 # TradPlusBaiduAdapter
 
+## 8.4.0
+
+BaiduMobAdSDK：v4.901 ，TradPlusSDK min：v7.2.0
+
 ## 8.3.20
 
 BaiduMobAdSDK：v4.901 ，TradPlusSDK min：v7.2.0

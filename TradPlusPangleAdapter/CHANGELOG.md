@@ -1,5 +1,9 @@
 # TradPlusPangleAdapter
 
+## 8.4.0
+
+Ads-Global(Pangle)：v4.7.0.6, Ads-CN(穿山甲)：v4.8.0.8，TradPlusSDK min：v7.2.0
+
 ## 8.3.20
 
 Ads-Global(Pangle)：v4.7.0.6, Ads-CN(穿山甲)：v4.8.0.8，TradPlusSDK min：v7.2.0
