@@ -1,5 +1,9 @@
 # TradPlusKlevinAdapter
 
+## 8.5.0
+
+KlevinAdSDK：v2.10.1.204 ，TradPlusSDK min：v7.2.0
+
 ## 8.4.0
 
 KlevinAdSDK：v2.10.1.204 ，TradPlusSDK min：v7.2.0

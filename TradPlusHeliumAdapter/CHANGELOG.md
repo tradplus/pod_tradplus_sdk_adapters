@@ -1,5 +1,9 @@
 # TradPlusHeliumAdapter
 
+## 8.5.0
+
+ChartboostHelium：v3.2.0 ，TradPlusSDK min：v7.9.0
+
 ## 8.4.0
 
 ChartboostHelium：v3.2.0 ，TradPlusSDK min：v7.9.0

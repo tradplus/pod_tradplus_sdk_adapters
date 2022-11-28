@@ -1,5 +1,9 @@
 # TradPlusMaioAdapter
 
+## 8.5.0
+
+MaioSDK：v1.6.3 ，TradPlusSDK min：v7.2.0
+
 ## 8.4.0
 
 MaioSDK：v1.6.2 ，TradPlusSDK min：v7.2.0

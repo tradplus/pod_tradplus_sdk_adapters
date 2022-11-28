@@ -1,5 +1,7 @@
 # TradPlusGoogleAdManagerAdapter
 
+8.5.0开始GoogleAdManagerAdapter 已合并入 TradPlusAdMobAdapter
+
 ## 8.4.0
 
 Google-Mobile-Ads-SDK：v9.11.0 ，TradPlusSDK min：v7.5.0

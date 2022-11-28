@@ -1,5 +1,9 @@
 # TradPlusKidozAdapter
 
+## 8.5.0
+
+KidozSDK：v8.9.3 ，TradPlusSDK min：v7.2.0
+
 ## 8.4.0
 
 KidozSDK：v8.9.3 ，TradPlusSDK min：v7.2.0
