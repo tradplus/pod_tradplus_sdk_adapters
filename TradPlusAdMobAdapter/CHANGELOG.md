@@ -1,5 +1,9 @@
 # TradPlusAdMobAdapter
 
+## 8.6.0
+
+Google-Mobile-Ads-SDK：v9.13.0 ，TradPlusSDK min：v7.2.0
+
 ## 8.5.0
 
 Google-Mobile-Ads-SDK：v9.13.0 ，TradPlusSDK min：v7.2.0

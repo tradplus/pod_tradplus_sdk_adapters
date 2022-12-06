@@ -1,5 +1,9 @@
 # TradPlusSigmobAdapter
 
+## 8.6.0
+
+SigmobAd-iOS：v4.6.1 ，TradPlusSDK min：v7.2.0
+
 ## 8.5.0
 
 SigmobAd-iOS：v4.6.1 ，TradPlusSDK min：v7.2.0

@@ -1,5 +1,9 @@
 # TradPlusChartboostAdapter
 
+## 8.6.0
+
+ChartboostSDK：v8.5.0.2 ，TradPlusSDK min：v7.2.0
+
 ## 8.5.0
 
 ChartboostSDK：v8.5.0.2 ，TradPlusSDK min：v7.2.0

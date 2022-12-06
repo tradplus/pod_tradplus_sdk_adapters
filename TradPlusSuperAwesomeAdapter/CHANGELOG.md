@@ -1,5 +1,9 @@
 # TradPlusSuperAwesomeAdapter
 
+## 8.6.0
+
+SuperAwesome：v8.5.0 ，TradPlusSDK min：v7.2.0
+
 ## 8.5.0
 
 SuperAwesome：v8.4.1 ，TradPlusSDK min：v7.2.0
