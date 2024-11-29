@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
  	spec.name = 'TradPlusAdMobAdapter'
- 	spec.version = '9.6.0.1'
+ 	spec.version = '12.6.10'
  	spec.summary = 'TradPlus AdMob Adapter'
  	spec.description = <<-DESC
  		AdMob Adapter used for mediation with the TradPlusAd SDK
