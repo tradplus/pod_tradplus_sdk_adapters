@@ -15,5 +15,5 @@ Pod::Spec.new do |spec|
  	spec.requires_arc = true
  	spec.frameworks = 'SystemConfiguration', 'CoreGraphics','Foundation','UIKit'
  	spec.user_target_xcconfig = {'OTHER_LDFLAGS' => ['-lObjC']}
- 	spec.vendored_frameworks = 'TradPlusInMobiAdapter-11.1.1/InMobiAdapter.framework'
+ 	spec.vendored_frameworks = 'TradPlusInMobiAdapter-11.1.1/TPInMobiAdapter.framework'
 end
