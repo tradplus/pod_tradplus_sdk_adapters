@@ -1,4 +1,9 @@
 # TradPlusMintegralAdapter
+## 8.7.0
+
+MintegralAdSDK：v7.7.9 ，TradPlusSDK min：v7.2.0
+
+增加原生广告视频素材开始播放，播放完成回调
 
 ## 8.6.0
 
